@@ -1,0 +1,7 @@
+BITWISE QUESTIONS:-
+
+    question 1. Position of first set bit.
+    question 2. Count all set bits in a number.
+    question 3. Count all set bits from 0 to N in
+                Time complexity: O(log(n)).
+
