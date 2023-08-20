@@ -26,12 +26,6 @@ public class SpiralMatrix {
 		if (leftTop[0] > leftBottom[0]) 
 			return matrix;
 
-//		System.out.print(Arrays.toString(leftTop));
-//		System.out.print(" | " + Arrays.toString(rightTop) + "\n");
-//		System.out.print(Arrays.toString(rightBottom));
-//		System.out.print(" | " + Arrays.toString(leftBottom) + "\n");
-//		System.out.println();
-
 		for (int[] arr : matrix) {
 			System.out.println(
 				Arrays.toString(arr)
